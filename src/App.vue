@@ -2,12 +2,12 @@
 
     <form @submit.prevent="onSubmit2">
         <label>
-            <span>用户名</span>
+            <span>用户名111:</span>
             <input type="text" v-model="user.username">
         </label>
         <br>
         <label>
-            <span>密码:</span>
+            <span>密码111:</span>
             <input type="password" v-model="user.password">
         </label>
         <button>提交</button>
