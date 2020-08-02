@@ -10,7 +10,7 @@
             <span>密码111222:</span>
             <input type="password" v-model="user.password">
         </label>
-        <button>提交</button>
+        <button>提交feature111</button>
     </form>
 </template>
 
