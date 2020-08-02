@@ -11,6 +11,7 @@
             <input type="password" v-model="user.password">
         </label>
         <button>提交11111</button>
+        asdfasdl;fkjasdf
     </form>
 </template>
 
