@@ -7,7 +7,7 @@
         </label>
         <br>
         <label>
-            <span>密码111222:</span>
+            <span>密码111222:master</span>
             <input type="password" v-model="user.password">
         </label>
         <button>提交</button>
